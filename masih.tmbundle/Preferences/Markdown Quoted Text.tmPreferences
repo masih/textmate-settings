@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Markup Quote Font</string>
 	<key>scope</key>
-	<string>markup.quote</string>
+	<string>markup.quote.markdown</string>
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
