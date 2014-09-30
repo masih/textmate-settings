@@ -1,4 +1,4 @@
-textmate_settings
+Textmate Settings
 =================
 
-My Textmate 2 bundle customisations
+My TextMate 2 bundle customisations and settings.

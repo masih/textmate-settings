@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>masiih@gmail.com</string>
+	<key>contactName</key>
+	<string>Masih</string>
+	<key>description</key>
+	<string>My TextMate 2 bundle customisations and settings.</string>
+	<key>name</key>
+	<string>Masih’s Customisations</string>
+	<key>uuid</key>
+	<string>A5022400-4897-11E4-916C-0800200C9A66</string>
+</dict>
+</plist>
