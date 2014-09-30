@@ -3,6 +3,11 @@ Textmate Settings
 
 My TextMate 2 bundle customisations and settings.
 
+Features:
+ 
+ * Sensible font sizes for Markdown headings.
+ * More readable Markdown quotes and blocks.
+
 Installation
 ------------
 
